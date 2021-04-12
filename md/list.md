@@ -1,3 +1,21 @@
+# list
+
+``` python
+#원소제거
+
+a = [1, 2, 3, 4, 5, 6, 7]
+del a[1]
+#del list[index]
+[1, 3, 4, 5, 6, 7]
+
+
+a = [1, 2, 3, 4, 5, 6, 7]
+a.remove(3)
+#list.remove(item)
+[1, 2, 4, 5, 6, 7]
+```
+
+
 ### join
 > "구분자".join(list)
 - 구분자를 기준으로 list를 합쳐줌.
