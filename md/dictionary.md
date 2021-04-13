@@ -1,6 +1,6 @@
 ## dictionary
 
-````python
+```python
 1.선언
 dic = {}
 type(dic) # class : dict
@@ -25,6 +25,8 @@ dict(name_and_ages)  #{'alice': 5, 'Bob': 13}
 
 ***주의***
 key로 set, list, dict 사용 불가
+
+
 
 3.for 문
 
@@ -55,16 +57,7 @@ for key, val in a.items():
 4.삭제
 # dictionary
 
-```python
-
 a = {'alice': [1, 2, 3], 'bob': 20, 'tony': 15, 'suzy': 30}
 
-
-## for문
-for key, val in a.items():
-~~
-
-
-## 삭제
 del a['alice']
-````
+```
