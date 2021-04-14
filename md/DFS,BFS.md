@@ -33,6 +33,16 @@ queue.append(3)
 print(queue)        #deque([1,2,3])
 queue.popleft()     
 print(queue)        #deque([2,3])
+
+
+#While
+
+queue = deque()
+queue.append(1)
+queue.append(2)
+while queue:
+    print(queue.popleft())  #1, 2
+
 ```
 
 
