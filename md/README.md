@@ -4,3 +4,4 @@
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md/str_method.md">str함수</a>
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md/dictionary.md">dictionary</a>
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md/DFS,BFS.md">DFS, BFS</a>
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md/heap.md">heap</a>
