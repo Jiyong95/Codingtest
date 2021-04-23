@@ -17,15 +17,16 @@ heapq.heappush(heap, 3)
  
 print(heap)
 #[1, 3, 4] 오름차순 정렬 아님.
- 
+#하지만 heap[0]은 무조건 최소 값
  
 3. heap 원소 삭제
-heaqp.heappop(heap)
+heapq.heappop(heap)
 #가장 작은 원소가 삭제 된다.
  
 4. heap 변환
 list = [3, 4, 1]
 heapq.heapify(list)
+#heapq.heapify : return 값 None
  
 5. Max-heap만들기
  

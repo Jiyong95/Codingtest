@@ -55,9 +55,22 @@ for key, val in a.items():
 
 
 4.삭제
-# dictionary
 
 a = {'alice': [1, 2, 3], 'bob': 20, 'tony': 15, 'suzy': 30}
 
 del a['alice']
+
+
+5. key, value, get
+
+a = {'alice': [1, 2, 3], 'bob': 20, 'tony': 15, 'suzy': 30}
+a.keys()
+#['tony', 'bob', 'alice', 'suzy']
+
+a.values()
+#[15, 20, [1, 2, 3], 30]
+
+a.get('alice')
+#[1, 2, 3]
+
 ```

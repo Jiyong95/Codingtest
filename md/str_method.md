@@ -8,3 +8,7 @@
 
 ## 숫자 판별
 - s.isdigit()
+
+### split
+- str.split() -> 공백을 기준으로 나눔. 
+- list리턴
