@@ -74,3 +74,16 @@ a.get('alice')
 #[1, 2, 3]
 
 ```
+
+## Collections
+``` python
+import collections
+li = ['a','a','b','c','d','d']
+
+#return : dictionary
+dic = collections.Counter(li)
+print(dic)
+#Counter({'a': 2, 'd': 2, 'c': 1, 'b': 1})
+print(dic['a'])
+#2
+```
