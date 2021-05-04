@@ -30,4 +30,7 @@
 
 <br/><br/>
 
-### <a href="https://github.com/Jiyong95/Codingtest/blob/main/md/README.md">몰랐던 것</a>
+### <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_Python/README.md">Python</a>
+
+### <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/README.md">Javascript</a>
+
