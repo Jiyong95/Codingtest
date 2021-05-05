@@ -45,6 +45,10 @@ console.log(array1.reduce(reducer, 5));
 });
 ```
 - 콜백은 4번 호출됩니다. 각 호출의 인수와 반환값은 다음과 같습니다.  
+1. 처음에 0,1 이 들어오고 반환값 acc에 저장
+2. 그다음부터는 2 들어오고 반환값 acc에 저장
+3. 3들어오고 ...
+4. 4들어오고 ...
 
 |callback|accumulator|currentValue|currentIndex|array|반환 값|
 |---|---|---|---|---|---|

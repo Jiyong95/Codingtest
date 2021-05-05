@@ -2,6 +2,10 @@
 
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/map,reduce,filter.md">Map, Reduce, Filter</a>
 
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/slice,splice.md">Slice, Splilce</a>
+
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/forEach.md">forEach</a>
+
 
 
 
