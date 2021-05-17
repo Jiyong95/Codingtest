@@ -1,10 +1,13 @@
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/Arr.md">
+Arr</a>
+
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/in.md">in 연산자</a>
 
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/map,reduce,filter.md">Map, Reduce, Filter</a>
 
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/slice,splice.md">Slice, Splilce</a>
 
-- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/forEach.md">forEach</a>
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/forEach,forof.md">forEach,forOf</a>
 
 
 
