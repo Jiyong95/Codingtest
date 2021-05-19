@@ -14,6 +14,7 @@ console.log(result);
 
 ## Map
 > arr.map(callback(currentValue[, index[, array]])[, thisArg])
+- 배열의 각 요소에 대해 실행한 callback의 결과를 모은 새로은 배열 반환.
 ``` javascript
 
 var numbers = [1, 4, 9];
