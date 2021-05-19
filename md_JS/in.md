@@ -24,3 +24,8 @@ var myCar = {company: "Lamborghini", model:"Lamborghini Veneno Roadster", year: 
 "company" in myCar; // true를 반환합니다.
 
 ```
+
+## includes()
+``` javascript
+"abcd".includes('a') //true
+```
