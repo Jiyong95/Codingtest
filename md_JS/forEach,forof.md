@@ -1,5 +1,6 @@
 ## forEach, for..Of
-
+- forEach 리턴 값 : undefined
+- map 은 배열 반환
 ``` js
 const array1 = ['a', 'b', 'c'];
 
