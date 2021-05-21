@@ -53,3 +53,11 @@ let arr = [1,2,3,4];
 arr.splice(2,1);
 //arr = [1,2,4];
 ```
+
+## 배열 값만 빼오기
+``` javascript
+let arr = [1,2,3,4,5];
+
+Math.max(...arr); //5
+//...arr = 1,2,3,4,5 
+```
