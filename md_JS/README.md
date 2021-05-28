@@ -1,5 +1,7 @@
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/Arr.md">Arr</a>
 
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/String.md">String</a>
+
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/NumString.md">Number <=> String</a>
 
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/in.md">in, includes()</a>
