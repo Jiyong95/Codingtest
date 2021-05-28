@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/slice,splice.md">Slice, Splilce</a>
 
-- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/forEach,forof.md">forEach,forOf</a>
+- <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/forEach,forof.md">forEach,forOf,forin</a>
 
 - <a href="https://github.com/Jiyong95/Codingtest/blob/main/md_JS/indexOf.md">indexOf</a>
 
